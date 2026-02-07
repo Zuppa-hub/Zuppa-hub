@@ -9,8 +9,8 @@ I enjoy turning ideas into real, production-ready products with clean code and g
 - Open to **internship or junior software engineer opportunities**
 
 ## 🛠️ Tools & Technologies
-- **Frontend:** Vue.js, Flutter, HTML/CSS, Tailwind
-- **Backend:** Laravel, Node.js, REST APIs, PostgreSQL
+- **Frontend:** JavaScript, Vue.js, HTML/CSS, Tailwind
+- **Backend:** Laravel, Node.js, REST APIs, SQL
 - **Mobile:** Flutter, Dart, Swift, SwiftUI
 - **DevOps & Tools:** Docker, Git, GitHub Actions, Firebase
 - **Design:** Figma
